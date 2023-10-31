@@ -1,3 +1,5 @@
 # JS-game <br>
-Hey, i made a simple but intresting Rock, Paper Scissors game by using Javascript only. <br>
-This is a alert box type game, its just a beginning of my learning in JS.
+Hey, I made a simple but interesting Rock, Paper Scissors game by using Javascript only. <br>
+This is an alert box-type game, it is just the beginning of my learning in JS. <br>
+You can open it by linking it with any blank HTML page.
+
